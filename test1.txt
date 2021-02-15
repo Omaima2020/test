@@ -1,4 +1,5 @@
 Preconditins:
+La connexion internet est établie.
 Etapes è execuer:
 Resultats attendus:
 Postconditions:
